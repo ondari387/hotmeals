@@ -1,0 +1,82 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Trebuchet MS;
+}
+.social li{
+	display: inline-block;
+}
+
+.social li img{
+	width: 20px;
+	height:20px;
+	cursor: pointer;
+
+}
+.contact{
+	width: 20px;
+	height:20px;
+}
+.btn{
+	background-color: #0096A3!important;
+	color:#ffffff!important;
+}
+.navbar-toggler-icon{
+	border: 1px solid #0096A3!important;
+}
+.navbar-brand{
+	color:#0096A3!important;
+	font-weight: 600!important;
+	font-size: 25px;
+}
+.img-src{	
+	border-radius: 100px;
+	cursor: pointer;
+	width: 200px;
+	height:200px;
+}
+.title{
+	font-weight: 600;
+	width: 180px;
+	text-align: center;
+	margin: auto;
+	border-bottom: 3px solid #0096A3;
+}
+.title2{
+	font-weight: 600;
+	width: 240px;
+	text-align: center;
+	margin: auto;
+	border-bottom: 3px solid #0096A3;
+}
+/**Book a table**/
+.book_table{
+	background-color: #2F383E;
+	padding: 50px 0;
+	margin-top: 60px;
+}
+
+
+/*meals*/
+.meals{
+	padding: 30px 0;
+}
+.price{
+	color:#0096A3;
+	font-style: bold;
+}
+.meal-text{
+	margin-top: 5px;
+	font-weight: bold;
+	font-size: 16px;
+	text-align: center;
+}
+/*contact us*/
+.contact{
+	background-color: #F8F9FA;
+	padding: 30px 0;
+}
+/*table*/
+.table_header{
+	margin-top: 70px;
+}
